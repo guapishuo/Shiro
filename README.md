@@ -1,2 +1,2 @@
 # Shiro
-## 例子在 target/test-classes 下
+### shiro的简单权限管理
